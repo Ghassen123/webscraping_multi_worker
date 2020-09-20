@@ -1,0 +1,4 @@
+selectorlib
+requests
+pyzmq
+bs4

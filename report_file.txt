@@ -1,0 +1,3 @@
+{"Start_Time": "2020-09-07 09:48:39.866611", "End_Time": "2020-09-07 09:48:46.268769", "Processing_Time_Seconds": "6.402188777923584", "Status": "Success", "Methode": "get_product_info_from_client"}
+{"Start_Time": "2020-09-07 09:52:19.909424", "End_Time": "2020-09-07 09:52:25.440049", "Processing_Time_Seconds": "5.530654191970825", "Status": "Success", "Methode": "get_product_info_from_client"}
+{"Start_Time": "2020-09-07 09:52:43.458485", "End_Time": "2020-09-07 09:52:47.889441", "Processing_Time_Seconds": "4.430994510650635", "Status": "Success", "Methode": "get_product_info_from_client"}
